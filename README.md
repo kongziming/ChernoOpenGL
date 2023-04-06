@@ -98,3 +98,7 @@ ImGui in OpenGL
 
 需拷贝的文件有ImGui根目录下的所有.h和.cpp文件，以及backends目录下imgui_impl_glfw、imgui_impl_opengl3相关的几个文件。
 
+### demo23
+
+Rendering Multiple Objects in OpenGL
+
